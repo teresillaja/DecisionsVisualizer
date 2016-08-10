@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+# User-specific configurations
+.idea/
+*.iml
+*.apk
+release.keystore
+proguard/
